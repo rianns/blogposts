@@ -1,10 +1,10 @@
 import PostList from "@/components/PostList";
 
-const PropsExample = () => {
+const Posts = () => {
   return (
     <div>
       <PostList />
     </div>
   );
 };
-export default PropsExample;
+export default Posts;
